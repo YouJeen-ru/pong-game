@@ -63,6 +63,14 @@ button:focus {
   }
 }
 
+@media screen and (max-width: 1369px) {
+  canvas {
+    margin-top: 20px;
+    width: 500px;
+    height: 600px;
+  }
+}
+
 
 @media screen and (max-width: 500px) {
   canvas {
